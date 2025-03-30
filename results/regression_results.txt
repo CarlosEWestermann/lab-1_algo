@@ -1,0 +1,4 @@
+Linear Regression Results:
+log(T) = -15.0642 + 0.0708*log(n) + 1.0087*log(m)
+T ≈ 0.0000 * n^0.0708 * m^1.0087
+R-squared: 0.9987
